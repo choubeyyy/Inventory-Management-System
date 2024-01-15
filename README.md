@@ -1,4 +1,4 @@
-# Inventory-Management-System
+
 # Inventory-Management-System
 **Database Management System Project on the Inventory Management System using SQL**
 
